@@ -18,3 +18,5 @@ cp senselliblinux0.8.2.deb sensellib
 cd sensellib
 makepkg -si
 ```
+
+Also copy 70-sensel.rules into /usr/lib/udev/rules.d
